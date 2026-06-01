@@ -1,0 +1,104 @@
+Session 2:
+HTML and CSS
+
+HTML = Structure of the website
+CSS = Design and Styling of the website
+
+Setup:
+1. No need to install HTML or CSS. They are supported by all modern browsers (Chrome, Edge, Firefox, Brave, etc.).
+2. Install Live Server (VS Code Extension). It automatically reloads your website whenever you save changes.
+3. Create two files:
+   - index.html
+   - style.css
+4. Type ! and press Tab to generate the HTML boilerplate.
+5. Link style.css with index.html and start building.
+
+--------------------------------------------------
+
+Fonts & Icons:
+1. Google Fonts
+   https://fonts.google.com/
+
+2. Font Awesome (Icons)
+   https://fontawesome.com/
+
+--------------------------------------------------
+
+Images:
+1. Unsplash
+   https://unsplash.com/
+
+2. Pexels
+   https://pexels.com/
+
+--------------------------------------------------
+
+Animated Icons:
+1. Lordicon
+   https://lordicon.com/
+
+--------------------------------------------------
+
+UI Design:
+1. Figma
+   https://figma.com/
+
+   - Create UI mockups
+   - Use Figma AI for design ideas
+   - Plan website layouts before coding
+
+--------------------------------------------------
+
+CSS Inspiration:
+1. CodePen
+   https://codepen.io/
+
+   Search:
+   - Buttons
+   - Cards
+   - Login Forms
+   - Navigation Bars
+   - Hover Effects
+   - Loaders
+   - Landing Pages
+
+Example:
+https://codepen.io/nodws/pen/PwbOdME
+
+--------------------------------------------------
+
+Recommended VS Code Extensions:
+1. Live Server
+2. Prettier -> Makes your messy code look beautiful.
+
+
+Tasks:
+1. Personal Profile Page
+
+Goal: Learn basic HTML structure + simple CSS styling
+
+Requirements:
+
+Name heading
+Profile image
+Short bio (3–5 lines)
+List of skills (HTML, CSS, etc.)
+Contact section (email/social links)
+
+Focus:
+
+Proper use of tags: h1, p, img, ul, a, div
+Basic styling: font, color, spacing
+
+-> Finally push it to GitHub
+
+2. Create your own Google clone 
+
+Goal: Learn by your own ideas and create your most beautiful and your styled Google Homepage clone
+
+Requirements: 
+-> Google logo or your modified Google (you can use your own font or Google modified logo created using AI)
+-> Search input field 
+-> Other features that make it look like Google.
+-> You can add background images and anything to match your vibe. 
+-> No need to make the input search working (We will get it working after learning JS 😎)
