@@ -1,0 +1,42 @@
+Session 1 
+Git and GitHub
+
+1. Why you need to learn Web Dev 
+    - Freelancing
+    - Open-source
+    - Work on your startup 
+    - Creativity - Make your own portfolio website
+
+2. Also to keep it interesting and engaging I have given you guys the permission to update group icon to random web dev memes that you wish
+
+3. Git and GitHub are just helpers, they are not frameworks, not programming languages. Git helps you run commands just like pip seen usually in python while GitHub is simply a website which lets you store your projects, let companies and people know what you have worked on.
+
+4. Explored Bitefy - Tell them about React
+
+5. Show Jaswanth's git account and tell people what all the terms mean, tell them to make one similar for themselves. 
+   Show profile views update.
+
+Topics to explain
+1. What is git and GitHub
+2. Git commands 
+3. Explore GitHub
+   - Push
+   - Repo
+   - Commit 
+   - Fork
+   - Clone
+   - Push
+   - Pull
+   - Pull Request
+   - Merge
+   - Merge Conflict - https://www.youtube.com/shorts/79wdoaOrxRM
+   - Issues
+   - README.md
+   - .gitignore
+
+
+
+Tasks to complete 
+1. Make a good GitHub profile.
+2. Make your GitHub repositories and push your existing projects to GitHub.
+3. Play with git commands, edit your existing repositories.
